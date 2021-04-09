@@ -1,0 +1,104 @@
+{
+  "globalRisk": "3",
+  "vulnerabilities": [
+    {
+      "impact": "3",
+      "exploitation": "3",
+      "risk": "3",
+      "CVSSscore": "7.1",
+      "remediationComplexity": "3",
+      "remediationPriority": "3",
+      "remediationStatus": "1"
+    },
+    {
+      "impact": "2",
+      "exploitation": "3",
+      "risk": "2",
+      "CVSSscore": "7.5",
+      "remediationComplexity": "3",
+      "remediationPriority": "2",
+      "remediationStatus": "1"
+    },
+    {
+      "impact": "4",
+      "exploitation": "1",
+      "risk": "2",
+      "CVSSscore": "6.3",
+      "remediationComplexity": "2",
+      "remediationPriority": "1",
+      "remediationStatus": "2"
+    },
+    {
+      "impact": "2",
+      "exploitation": "3",
+      "risk": "2",
+      "CVSSscore": "5.3",
+      "remediationComplexity": "2",
+      "remediationPriority": "1",
+      "remediationStatus": "0"
+    },
+    {
+      "impact": "2",
+      "exploitation": "2",
+      "risk": "2",
+      "CVSSscore": "5.3",
+      "remediationComplexity": "2",
+      "remediationPriority": "2",
+      "remediationStatus": "3"
+    },
+    {
+      "impact": "1",
+      "exploitation": "2",
+      "risk": "1",
+      "CVSSscore": "5.6",
+      "remediationComplexity": "2",
+      "remediationPriority": "1",
+      "remediationStatus": "1"
+    },
+    {
+      "impact": "1",
+      "exploitation": "2",
+      "risk": "1",
+      "CVSSscore": "4.3",
+      "remediationComplexity": "1",
+      "remediationPriority": "1",
+      "remediationStatus": "2"
+    },
+    {
+      "impact": "1",
+      "exploitation": "2",
+      "risk": "1",
+      "CVSSscore": "3.7",
+      "remediationComplexity": "1",
+      "remediationPriority": "2",
+      "remediationStatus": "0"
+    },
+    {
+      "impact": "1",
+      "exploitation": "2",
+      "risk": "1",
+      "CVSSscore": "3.7",
+      "remediationComplexity": "1",
+      "remediationPriority": "1",
+      "remediationStatus": "1"
+    },
+    {
+      "impact": "1",
+      "exploitation": "2",
+      "risk": "1",
+      "CVSSscore": "3.7",
+      "remediationComplexity": "1",
+      "remediationPriority": "1",
+      "remediationStatus": "3"
+    },
+    {
+      "impact": "1",
+      "exploitation": "2",
+      "risk": "1",
+      "CVSSscore": "3.7",
+      "remediationComplexity": "1",
+      "remediationPriority": "1",
+      "remediationStatus": "0"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "globalRisk": {
+    "label": "Risque global",
+    "1": "Faible",
+    "2": "Moyen",
+    "3": "Fort"
+  },
+  "impact": {
+    "label": "Impact",
+    "1": "Mineur",
+    "2": "Important",
+    "3": "Majeur",
+    "4": "Critique"
+  },
+  "exploitation": {
+    "label": "Exploitation",
+    "1": "Difficile",
+    "2": "Elevée",
+    "3": "Modérée",
+    "4": "Facile"
+  },
+  "risk": {
+    "label": "Risque",
+    "1": "Mineur",
+    "2": "Important",
+    "3": "Majeur",
+    "4": "Critique"
+  },
+  "remediationComplexity": {
+    "label": "Complexité de remédiation",
+    "1": "Facile",
+    "2": "Moyenne",
+    "3": "Difficile",
+    "4": "Complexe"
+  },
+  "remediationPriority": {
+    "label": "Priorité de remédiation",
+    "1": "Basse",
+    "2": "Moyenne",
+    "3": "Haute",
+    "4": "Critique"
+  },
+  "remediationStatus": {
+    "label": "Satut de remédiation",
+    "0": "Non vérifiable",
+    "1": "Corrigée",
+    "2": "Partiellement corrigée",
+    "3": "Non corrigée"
+  },
+  "CVSSscore": "Score CVSS",
+  "vulnerabilities": "Vulnérabilités"
+}
