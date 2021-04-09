@@ -13,7 +13,7 @@ graphs / charts for penetration testing reports.
 
 ## Install & Usage
 
-```
+```bash
 git clone https://github.com/sec-it/penchart.git
 cd penchart
 # edit src/data.json to set your vuln scores
